@@ -1,5 +1,4 @@
 # Asteroid
 
-
-https://github.com/pun777chy/Asteroid/assets/6859320/d2d4b440-37a6-4bfb-891e-131ac9f90426
+https://github.com/pun777chy/Asteroid/assets/6859320/3903deae-df26-403a-b621-154bd1097a33
 
