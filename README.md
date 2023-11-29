@@ -21,3 +21,5 @@ https://github.com/pun777chy/Asteroid/assets/6859320/3903deae-df26-403a-b621-154
   - Since implementing the game mechanics was easy, most of my time spent was on designing architure.
   - **I kept every class implementation at it's basic level so it would be easy to understand.**
 
+      BUILD
+    Asteroids-Classic/Build/Asteroids-Classic.exe
