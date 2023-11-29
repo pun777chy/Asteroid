@@ -10,7 +10,7 @@ https://github.com/pun777chy/Asteroid/assets/6859320/3903deae-df26-403a-b621-154
 - In the given build addressable has been deactivated for now but it is working with editor for testing since the Play Mode Script is "Use Asset Database"
 - A UNIT test was also conducted to test the binding of AsteroidSpawner class(I am still working on it if I can add more tests).
 - The project has one Controller which maintains the States of the the game and update the Views.
-- **PLEASE IGNORE THE UI. UI programming is my experties but I had to plan to implement UI gracefully.
+- ****PLEASE IGNORE THE UI. UI programming is my experties but I had to plan to implement UI gracefully.**
 **
    PACKAGES ADDED
   - Zenject
@@ -22,7 +22,7 @@ https://github.com/pun777chy/Asteroid/assets/6859320/3903deae-df26-403a-b621-154
   - **I kept every class implementation at it's basic level so it would be easy to understand.**
 
       BUILD
-    Asteroids-Classic/Build/Asteroids-Classic.exe
+   [ Asteroids-Classic/Build/Asteroids-Classic.exe](https://github.com/pun777chy/Asteroid/tree/main/Asteroids-Classic/Build)https://github.com/pun777chy/Asteroid/tree/main/Asteroids-Classic/Build
 
 
 
