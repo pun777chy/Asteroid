@@ -3,21 +3,22 @@
 https://github.com/pun777chy/Asteroid/assets/6859320/3903deae-df26-403a-b621-154bd1097a33
 
 - It is sample game project based on classic Asteroid made on Unity 2021.3.10f1.
-- The project used Zenject framework for dependency injections and inversion of control. 
-- As the sample is quite basic the project maintained simplicity while strictly follows SOLID principle practices.
-- Zenject signals are used for uncoupled communication between classes.
-- GameScene is loaded using Addressables.
-- In the given build addressable has been deactivated for now but it is working with editor for testing since the Play Mode Script is "Use Asset Database"
-- A UNIT test was also conducted to test the binding of AsteroidSpawner class(I am still working on it if I can add more tests).
-- The project has one Controller which maintains the States of the the game and update the Views.
-- ****PLEASE IGNORE THE UI. UI programming is my experties but I had to plan to implement UI gracefully.**
-**
-   PACKAGES ADDED
+- The project employed the Zenject framework for implementing dependency injection and inversion of control.
+- Despite the simplicity of the sample, the project adhered closely to SOLID principles.
+- Zenject signals were utilized to establish decoupled communication between various classes.
+- The GameScene was loaded through Addressables.
+- In the current build, Addressables have been deactivated, but they are functional in the editor for testing purposes, thanks to the "Use Asset Database" setting in Play Mode Script.
+- A unit test was conducted to verify the binding of the AsteroidSpawner class (additional tests may be added in the future).
+- The project features a singular Controller responsible for managing the Game States and updating the corresponding Views.
+- ****PLEASE IGNORE THE UI. UI programming is my experties but I had to plan to implement UI gracefully.****
+
+
+   **PACKAGES ADDED**
   - Zenject
   - Addressables
   - ZenjectTestFramework
 
-   CHALLENGES
+  ** **CHALLENGES****
   - Since implementing the game mechanics was easy, most of my time spent was on designing architure.
   - **I kept every class implementation at it's basic level so it would be easy to understand.**
 
